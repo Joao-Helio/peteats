@@ -1,0 +1,18 @@
+.navbar	{
+	display: flex;
+	justify-content: space-around;
+	flex: center;
+	align-items: center;
+	color: #5d737e;
+}
+.navbar h3 {
+	font-style: bold;
+}
+.navbar h3:hover	{
+	text-decoration: none;
+}
+
+.navbar a {
+	color: #5d737e;
+	text-decoration: none;
+}

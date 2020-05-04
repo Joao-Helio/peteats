@@ -1,0 +1,28 @@
+.card {
+  position: relative;
+  height: 200px;
+  background-size: cover;
+  color: #5d737e;
+}
+
+.card-title {
+  position: absolute;
+  top: 10px;
+  left: : 10px;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.card-category {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.card-description {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.card img {
+  border-radius: 50%;
+}

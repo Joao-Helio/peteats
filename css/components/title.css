@@ -1,0 +1,22 @@
+.title {
+  color: #5d737e;
+  text-align: center;
+}
+
+.title h1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.title h2 {
+  font-size: 30px;
+  font-weight: lighter;
+  padding-bottom: 40px;
+}
+
+.title p {
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+

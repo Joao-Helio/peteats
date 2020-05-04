@@ -1,0 +1,95 @@
+.btn-medium {
+  color: #999999;
+  border: 1px solid #999999;
+  padding: 10px 15px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+}
+
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #999999;
+}
+
+.btn-treehouse {
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+}
+
+.btn-treehouse:hover {
+  opacity: 1;
+  background: #6AD58B;
+  text-decoration: none;
+  color: white;
+}
+
+.btn-peteats {
+  color: white;
+  width: 250px;
+  padding-top: 20px;
+  padding-bottom:20px;
+  border: 2px solid #222e50;
+  border-radius: 10px;
+  font-weight: bold;
+  background: #222e50;
+  font-size: 30px;
+}
+
+.btn-peteats:hover {
+  color: #222e50;
+  border: 2px solid #222e50;
+  background: white;
+  text-decoration: none;
+}
+
+.btn-price {
+  color: #222e50;
+  width: 250px;
+  padding-top: 30px;
+  padding-bottom:30px;
+  border: 2px solid #222e50;
+  border-radius: 20px;
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.btn-price:hover a {
+  transition: all 0.3s ease;
+  text-decoration: none;
+  background: blue;
+  color: black;
+}
+
+.pricecar {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.signup {
+  color: white !important; 
+  background: #222e50;
+  padding: 10px 15px;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: 50%;
+  border: 2px solid #222e50;
+  text-decoration: none;
+}
+
+.signup:hover {
+  color: #222e50 !important;
+  border: 2px solid #222e50;
+  background: white;
+  text-decoration: none;
+}

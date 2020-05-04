@@ -1,0 +1,51 @@
+.table {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transition: all 0.3s ease;
+  border-radius: 3px;
+}
+
+.table img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.table h3 {
+  font-size: 20px;
+  padding: 10px;
+  transition: all 0.3s ease;
+}
+
+.table h3:hover {
+  background: rgb(240, 240, 240);
+}
+
+.table h4 {
+  flex: 1 0 auto;
+  padding: 10px;
+  align-items: center;
+}
+
+.table h4:hover {
+  background: rgb(240, 240, 240);
+}
+
+.table p {
+  color: white;
+  background: #222e50;
+  padding: 10px 15px;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: 50%;  
+}
+
+.table p:hover {
+  color: #222e50;
+  border: 2px solid #222e50;
+  background: white;
+  text-decoration: none;
+}
